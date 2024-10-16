@@ -297,4 +297,25 @@ public class Basics {
 			i++;
 			}	
 	}
+	public void printHourGlass(int size) {
+		int i = size;
+		String star = "*";
+		while(i>=1) {
+			for(int j=0; j<=Math.abs(size-i);j++) {
+				System.out.print(" ");
+				}
+			System.out.print(star.repeat(i*2));
+			i-=1;
+			System.out.println();
+			}
+		i+=2;
+		while(i<=size) {
+			for(int j=0; j<=Math.abs(size-i);j++) {
+				System.out.print(" ");
+			}
+			System.out.print(star.repeat(i*2));
+			i+=1;
+			System.out.println();
+		}
+}
 }
