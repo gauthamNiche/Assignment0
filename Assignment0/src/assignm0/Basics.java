@@ -9,7 +9,6 @@ public class Basics {
 
 	// Read System.out.println()
 	public void printHelloWorld() {
-		
 		System.out.println("Hello World");
 		
 	}
