@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Assignment0</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
+=======
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>Assignment0</name>
@@ -26,3 +39,4 @@
 		</filter>
 	</filteredResources>
 </projectDescription>
+>>>>>>> e972ac1f40cc8bae3b186d7ac0c899a758000523
